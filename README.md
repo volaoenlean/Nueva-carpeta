@@ -1,5 +1,8 @@
-Este código es un generador de contraseñas seguras en Python. A continuación te explico su funcionamiento paso a paso:
+OBJETIVO DEL PRGRAMA:
 
+  Este código genera contraseñas seguras y permite al usuario elegir la longitud de la contraseña y decidir si desea una nueva o si está satisfecho con la generada. A continuación te explico su funcionamiento paso a paso:
+  
+INTRODUCCIÓN AL PROYECTO
 1.Importación de módulos:
 
   import secrets
@@ -43,4 +46,5 @@ Este código es un generador de contraseñas seguras en Python. A continuación 
 
   El programa sigue solicitando al usuario hasta que esté satisfecho con la contraseña generada y se cierra automáticamente cuando el usuario está contento con la contraseña generada.
 
-Este código genera contraseñas seguras y permite al usuario elegir la longitud de la contraseña y decidir si desea una nueva o si está satisfecho con la generada.
+FECHA 01/09/2024
+
